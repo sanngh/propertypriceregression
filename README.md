@@ -19,9 +19,9 @@
 
 ## Conclusions
 - Conclusion 1 Lasso Regression is final model
-- Conclusion 2 R2_score for train data is 88.28%
-- Conclusion 3 R2_score for test data is 84.37%
-- Conclusion 4 Top features : YrSold_Old, BsmtHalfBath, BedroomAbvGr, BsmtQual, Somerst
+- Conclusion 2 R2_score for train data is 89.04%
+- Conclusion 3 R2_score for test data is 81.86%
+- Conclusion 4 Top features : 2ndFlrSF, OverallCond, CentralAir, HeatingQC, PosN
 - Conclusion 5 R2_score is decreasing with increase in alpha values
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
