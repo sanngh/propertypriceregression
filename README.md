@@ -12,7 +12,7 @@
 
 ## General Information
 - In this project, we are trying to build a MLR model to prediict price of a property for a US based company which has decided to enter Autralian Market, 
-- We are using RFE to find the top 50 variable and then will refine the model based on the p-value, VIF etc in case we didn't correct result we will apply advance regression
+- We are using RFE to find the top 570 variable and then will apply ridge & lasso model to find the optimal values of alpha, coef and features
 - Data set contain sale of houses in Australia which has more than 80 attributes in file
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -34,7 +34,6 @@
 - Matplotlib - version 	 3.2.2
 - Seaborn - version 	 0.10.1
 - Sklearn - version 	 0.23.1
-- Statsmodels - version 	 0.11.1
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
